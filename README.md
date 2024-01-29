@@ -12,7 +12,7 @@ Welcome to the Databricks Projects Repository! This repository houses various pr
 
 ### Project Structure
 
-- **Notebook:** [`Data Analysis Databricks.dbc`](.DataAnalyst_OlympicGamesData/Data_Analysis_Databricks.dbc)
+- **Notebook:** [`Data Analysis Databricks.dbc`](DataAnalyst_OlympicGamesData/Data_Analysis_Databricks.dbc)
   - Comprehensive exploration and analysis of Olympic games athlete data.
   - Detailed documentation of the entire code process.
   - Utilization of SQL and Python for data manipulation and analysis.
